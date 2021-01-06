@@ -87,7 +87,7 @@ a {
 }
 
 .dropdown {
-  background-color: var(--bg);
+  background-color: var(--bg-accent);
 
   position: absolute;
   top: 58px;
