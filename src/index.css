@@ -120,6 +120,7 @@ a {
   transition: height var(--speed) ease;
 }
 
+
 .menu-item {
   height: 50px;
   display: flex;
@@ -166,6 +167,7 @@ a {
   transition: all var(--speed) ease;
 }
 .menu-secondary-exit {
+  
 }
 .menu-secondary-exit-active {
   transform: translateX(110%);
